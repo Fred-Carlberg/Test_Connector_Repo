@@ -1,5 +1,5 @@
 def main():
-    print("Hello Polarion!")
+    print("Hello Polarion!\nThis is version 0.1!")
     return
 
 if __name__=="__main__":
