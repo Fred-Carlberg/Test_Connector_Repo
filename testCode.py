@@ -4,6 +4,7 @@ def compute_mean(a:int,b:int):
 def multiply(a:int,b:int):
     return a*b
 
+#Comment:)
 def main():
     print("Hello Polarion!\nThis is version 0.3 and should be visible in Polarion!")
     print("This however might not be visible")
