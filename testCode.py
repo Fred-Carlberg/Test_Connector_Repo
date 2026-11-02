@@ -1,3 +1,5 @@
+import numpy as np
+
 def compute_mean(a:int,b:int):
     return (a+b)/2
 
@@ -6,6 +8,9 @@ def multiply(a:int,b:int):
 
 def exponential(a:int,b:int):
     return a^b
+
+def logarithm(a:int):
+    return np.log(a)
 
 def main():
     print("Hello Polarion!\nThis is version 0.3 and should be visible in Polarion!")
