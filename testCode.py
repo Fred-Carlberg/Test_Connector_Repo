@@ -7,6 +7,10 @@ def multiply(a:int,b:int):
 def exponential(a:int,b:int):
     return a^b
 
+def func():
+    print("hej")
+    return
+
 def main():
     print("Hello Polarion!\nThis is version 0.3 and should be visible in Polarion!")
     print("This however might not be visible")
