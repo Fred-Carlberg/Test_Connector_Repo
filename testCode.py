@@ -11,6 +11,7 @@ def func():
     print("hej")
     return
 
+#Comment:)
 def main():
     print("Hello Polarion!\nThis is version 0.3 and should be visible in Polarion!")
     print("This however might not be visible")
